@@ -1,2 +1,2 @@
-# AWSDemo
-AWS demo, will have JS front end and Springboot backend
+# AWS Demo
+My AWS demo, will have JS front end and Springboot backend.
